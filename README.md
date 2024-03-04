@@ -6,4 +6,4 @@ The second project is finding whether the patient has breast cancer or not. The 
 The third project is about finding whether the given smartphone product is real or fake and it is decided according to phone specifications.
 This third project is special to me as it is created for a DPBH(conducted by Indian government) project. This is for extension but I created this as single mini project as it works with avg 99% accuracy.
 You can use my projects for reference.
-# Modifying or selling my projects is not allowed!!!!
+# Modifying or selling my projects are not allowed!!!!
