@@ -1,5 +1,5 @@
 # ML-projects
-# This is a file containing my mini-level projects.
+# This is a repository containing my mini-level projects.
 In this repository, I have mini-level projects regarding ML algorithm.
 The first project is Finding stroke with given data. The data given for stroke is in csv file format
 The second project is finding whether the patient has breast cancer or not. The dataset is already present in python library. You can import it
