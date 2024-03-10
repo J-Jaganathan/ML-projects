@@ -14,4 +14,4 @@ You can use my projects for reference.
 3)Anaconda Navigator(To download libraries easily)
 
 # Modifying or selling my projects are not allowed!!!!
-# My projects are only for view!
+# My projects are only for view and learning!
