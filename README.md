@@ -8,7 +8,10 @@ This third project is special to me as it is created for a DPBH(conducted by Ind
 You can use my projects for reference.
 # Prerequistes:
 1)Jupyter Notebook
+
 2)Microsoft excel
+
 3)Anaconda Navigator(To download libraries easily)
+
 # Modifying or selling my projects are not allowed!!!!
 # My projects are only for view!
