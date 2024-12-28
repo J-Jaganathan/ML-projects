@@ -1,15 +1,38 @@
-# ML-projects
-# This is a repository containing my mini-level projects.
-In this repository, I have mini-level projects regarding ML algorithm.
-The first project is Finding stroke with given data. The data given for stroke is in csv file format
-The second project is finding whether the patient has breast cancer or not. The dataset is already present in python library. You can import it
-The third project is about finding whether the given smartphone product is real or fake and it is decided according to phone specifications.
-This third project is special to me as it is created for a DPBH(conducted by Indian government) project. This is for extension but I created this as single mini project as this ML model works with avg 99% accuracy.
-You can use my projects for reference.
-# Prerequistes:
-1)Jupyter Notebook
+# Stroke Prediction using Decision Tree Classifier
 
-2)Microsoft excel
+This repository provides a machine learning model to predict whether a person is at risk of having a stroke based on a dataset containing various health features. The model is built using the Decision Tree Classifier with a Gini index criterion for feature selection.
 
-3)Anaconda Navigator(To download libraries easily)
+## Dataset
+
+The dataset used for this project is a CSV file containing the following columns:
+
+- **id**: Unique identifier for each record
+- **gender**: Gender of the individual (Male, Female, Other)
+- **age**: Age of the individual
+- **hypertension**: Whether the individual has hypertension (0 = No, 1 = Yes)
+- **heart_disease**: Whether the individual has heart disease (0 = No, 1 = Yes)
+- **ever_married**: Whether the individual has ever been married (Yes, No)
+- **work_type**: Type of work the individual does (Private, Self-employed, Children, Govt_job, Never_worked)
+- **Residence_type**: Type of residence (Urban, Rural)
+- **avg_glucose_level**: Average glucose level in the blood
+- **bmi**: Body Mass Index
+- **smoking_status**: Smoking status (never smoked, formerly smoked, smokes, Unknown)
+- **stroke**: Whether the individual has had a stroke (1 = Yes, 0 = No)
+
+## Installation
+
+### Prerequisites
+
+Ensure that you have Python 3.x installed along with the following libraries:
+
+- `pandas`
+- `numpy`
+- `scikit-learn`
+- `category_encoders`
+- `graphviz`
+
+You can install these dependencies using pip:
+
+```bash
+pip install pandas numpy scikit-learn category_encoders graphviz
 
